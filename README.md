@@ -12,7 +12,11 @@ In order to run .cpp file you must have to install SDL library on visual studio.
 After executing .cpp file you have to enter the following characters for performing their corresponding task:-
 
 m -> for visualizing Merge sort
+
 b -> for visualizing Bubble sort
+
 i -> for visualizing Insertion sort
+
 h -> for visualizing Heap sort
+
 e -> for exiting 
